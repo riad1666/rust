@@ -36,10 +36,12 @@ fn main() {
     let x:i32 =55_000_000;
 
     let riad:i32 = 787;
-
+  let rdx:char = 'Y';
 
     println!("the value of x is : {}", x);
     println!("the value of riad is : {}", riad);
+
+    println!(" {}", rdx);
 
 
 }
